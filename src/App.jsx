@@ -1,10 +1,10 @@
 import "./App.css";
-import { EffectExample } from "./hooks/use-effect/index";
+import { ReducerExample } from "./hooks/use-reducer";
 
 function App() {
   return (
     <>
-      <EffectExample />
+      <ReducerExample />
     </>
   );
 }
